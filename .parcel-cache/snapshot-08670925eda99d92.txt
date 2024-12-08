@@ -1,17 +1,28 @@
-16
-53C:\Users\ese_s\Documents\CampeonesLol\src\js\index.js133781381128938134 0
+27
+50C:\Users\ese_s\Documents\CampeonesLol\package.json133781387754804073 0
 48C:\Users\ese_s\Documents\CampeonesLol\.gitignore133781381128655175 0
-55C:\Users\ese_s\Documents\CampeonesLol\src\assest\images133781381128899799 1
-48C:\Users\ese_s\Documents\CampeonesLol\index.html133781381128809544 0
-41C:\Users\ese_s\Documents\CampeonesLol\src133781381128925299 1
-48C:\Users\ese_s\Documents\CampeonesLol\src\assest133781381128809544 1
+42C:\Users\ese_s\Documents\CampeonesLol\dist133781387311466941 1
+55C:\Users\ese_s\Documents\CampeonesLol\package-lock.json133781335669723900 0
+41C:\Users\ese_s\Documents\CampeonesLol\src133781382924956652 1
+60C:\Users\ese_s\Documents\CampeonesLol\dist\index.54eb1b74.js133781387311425026 0
+52C:\Users\ese_s\Documents\CampeonesLol\src\index.html133781381128809544 0
 44C:\Users\ese_s\Documents\CampeonesLol\src\js133781381128925299 1
+48C:\Users\ese_s\Documents\CampeonesLol\src\assest133781381128809544 1
 45C:\Users\ese_s\Documents\CampeonesLol\src\css133781381128915154 1
 53C:\Users\ese_s\Documents\CampeonesLol\src\js\chmps.js133781381128925299 0
+53C:\Users\ese_s\Documents\CampeonesLol\src\js\index.js133781381128938134 0
+61C:\Users\ese_s\Documents\CampeonesLol\dist\logo2.4f2563d6.png133781387311362509 0
+61C:\Users\ese_s\Documents\CampeonesLol\dist\icono.be3f4bd9.jpg133781387311402888 0
 55C:\Users\ese_s\Documents\CampeonesLol\src\css\index.css133781381128925299 0
+55C:\Users\ese_s\Documents\CampeonesLol\src\assest\images133781381128899799 1
 65C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\fondo.jpg133781381128819567 0
 66C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\fondo2.jpg133781381128834601 0
 65C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\icono.jpg133781381128843995 0
+64C:\Users\ese_s\Documents\CampeonesLol\dist\index.54eb1b74.js.map133781387311466941 0
 64C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\logo.jpg133781381128843995 0
 64C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\logo.png133781381128854126 0
 65C:\Users\ese_s\Documents\CampeonesLol\src\assest\images\logo2.png133781381128915154 0
+61C:\Users\ese_s\Documents\CampeonesLol\dist\fondo.1f10c08d.jpg133781387311425026 0
+61C:\Users\ese_s\Documents\CampeonesLol\dist\index.cf7176fb.css133781387311425026 0
+53C:\Users\ese_s\Documents\CampeonesLol\dist\index.html133781387311425026 0
+65C:\Users\ese_s\Documents\CampeonesLol\dist\index.cf7176fb.css.map133781387311466941 0
